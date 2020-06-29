@@ -1,4 +1,6 @@
-# I wonder what happens if I add a level 1 header
+## Testing GitHub Pages
+
+Just learning about using GitHub Pages for personal blogging. Please ignore me.
 
 Known:
 
