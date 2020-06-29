@@ -1,3 +1,19 @@
+# I wonder what happens if I add a level 1 header
+
+Known:
+
+- Rumor has it that index.html is used as the home page instead of README.md, if it exists. Don't know which I should use, though.
+
+Already having questions:
+
+- Commit directly to master *vs* create branch and pull request: I'm editing this README.md directly in the master branch. But I vaguely remember 5 minutes ago I was taught to create a branch, commit, do pull request, and merge, then delete branch, to make changes. I'm already confused.
+
+To do:
+
+- Customize/build theme.
+- Learn how blogging actually works on GitHub Pages. How to create a new post? How to avoid generating unnecessary noise for the internet? Privacy and copyright? Content rules and code of conduct? Considerations for using multiple langauges in the same post? 測試正體中文，標點符號應置中。そして日本語の句読点：、・。
+- Find out about that light clacking noise coming from my PC...*shudder* (And how to use emoticons, if available.)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cavealex/cavealex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
